@@ -1,0 +1,7 @@
+sounddevice
+numpy
+keyboard
+pystray
+Pillow
+proc-tap==1.1.1
+pycaw
